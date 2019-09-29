@@ -1,0 +1,11 @@
+E:\ООП\snake\snake\snake\bin\Debug\netcoreapp3.0\snake.exe
+E:\ООП\snake\snake\snake\bin\Debug\netcoreapp3.0\snake.deps.json
+E:\ООП\snake\snake\snake\bin\Debug\netcoreapp3.0\snake.runtimeconfig.json
+E:\ООП\snake\snake\snake\bin\Debug\netcoreapp3.0\snake.runtimeconfig.dev.json
+E:\ООП\snake\snake\snake\bin\Debug\netcoreapp3.0\snake.dll
+E:\ООП\snake\snake\snake\bin\Debug\netcoreapp3.0\snake.pdb
+E:\ООП\snake\snake\snake\obj\Debug\netcoreapp3.0\snake.csprojAssemblyReference.cache
+E:\ООП\snake\snake\snake\obj\Debug\netcoreapp3.0\snake.AssemblyInfoInputs.cache
+E:\ООП\snake\snake\snake\obj\Debug\netcoreapp3.0\snake.AssemblyInfo.cs
+E:\ООП\snake\snake\snake\obj\Debug\netcoreapp3.0\snake.dll
+E:\ООП\snake\snake\snake\obj\Debug\netcoreapp3.0\snake.pdb
